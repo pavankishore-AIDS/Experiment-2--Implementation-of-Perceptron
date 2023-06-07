@@ -158,15 +158,14 @@ print("accuracy = " , accuracy_score(classifier.predict(x_test), y_test)*100)
 ```
 ## Output:
 ### Dataset 
-![](1.PNG)
+![1](https://github.com/pavankishore-AIDS/Experiment-2--Implementation-of-Perceptron/assets/94154941/55001568-b7de-4600-b1eb-cfdcf570adf1)
 ### Scatter plot
-![](2.png)
+![2](https://github.com/pavankishore-AIDS/Experiment-2--Implementation-of-Perceptron/assets/94154941/33756856-09cc-49a8-8012-8ae80b8c3082)
 ### y values
-![](3.PNG) 
+![Uploading 3.png…]()
 ### Error plot
-![](4.png)
+![4](https://github.com/pavankishore-AIDS/Experiment-2--Implementation-of-Perceptron/assets/94154941/9418fe57-50ad-4323-956d-55631173657d)
 ### Accuracy
-![](5.PNG)
-
+![5](https://github.com/pavankishore-AIDS/Experiment-2--Implementation-of-Perceptron/assets/94154941/d008dac3-b8e5-421b-8df2-683fbc073b92)
 ## Result:
 Thus, a perceptron for classification is implemented using python.
